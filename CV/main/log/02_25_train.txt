@@ -1,0 +1,8 @@
+TP true positive is :  168
+TN true negative is:  2095
+FP false positive is:  445
+FN false negative is :  293
+Accuracy  is :  0.7540819726757747
+Precision is :  0.2740619902120718
+Recall is :  0.3644251626898048
+F1  is :  0.3128491619621747

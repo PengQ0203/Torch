@@ -1,0 +1,8 @@
+TP true positive is :  74
+TN true negative is:  894
+FP false positive is:  382
+FN false negative is :  151
+Accuracy rate is :  0.6449033977348434
+Error rate is :  0.35509660226515655
+Sentive is :  0.3288888888888889
+FPS is :  7.979405571760342

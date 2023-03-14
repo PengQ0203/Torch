@@ -1,0 +1,6 @@
+path: E:/MachineVision/DataSources/BeltConveyor/ImageAndLabel/202_233
+train: [part1/images, part2/images, part3/images, part4/images, part5/images, part6/images, part10/images, part11/images, part13/images, part16/images, part19/images, part20/images]
+val: [part22/images, part23/images, part25/images]
+# Classes
+nc: 1  # number of classes
+names: ['bigCoal']  # class names
